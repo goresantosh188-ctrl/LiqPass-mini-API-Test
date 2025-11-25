@@ -1,7 +1,7 @@
 # LiqPass Mini Quote API
 
 ## Install
-npm install
+npm install \
 npm run build
 
 ## Run
