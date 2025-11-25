@@ -1,0 +1,23 @@
+{
+  "name": "liqpass-mini-api",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "ts-node src/server.ts",
+    "test": "cross-env NODE_ENV=test vitest"
+  },
+  "dependencies": {
+    "@types/express": "^5.0.5",
+    "express": "^5.1.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7",
+    "typescript": "^5.9.3",
+    "uuid": "^13.0.0",
+    "vitest": "^4.0.14"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "@types/supertest": "^6.0.3",
+    "supertest": "^7.1.4",
+    "ts-node": "^10.9.2"
+  }
+}
