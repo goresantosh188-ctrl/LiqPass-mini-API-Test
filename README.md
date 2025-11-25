@@ -1,4 +1,4 @@
-#LiqPass Mini Quote API
+# LiqPass-Mini-Quote-API
 
 ## Install
 npm install
